@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm JiaJianCheong</h1>
 <h3 align="center">A passionate full stack web developer from Singapore</h3>
 
+<img src="https://readme-typing-svg.herokuapp.com/?lines=dominayo;Full-Stack%20Developer;Web%20and%20Blockchain%20master;AI%20engineer;8%2B%20years%20of%20rich%20experience&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
+<img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nickdev0118&label=Profile%20views&color=0e75b6&style=flat" alt="nickdev0118" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nickdev0118" alt="nickdev0118" /></a> </p>
