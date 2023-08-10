@@ -20,13 +20,13 @@
 
 <h3 align="left">Support:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickdev0118&show_icons=true&locale=en&layout=compact" alt="nickdev0118" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickdev0118&show_icons=true&locale=en&layout=compact" alt="nickdev0118" /></p>-->
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nickdev0118&langs_count=20&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nickdev0118&langs_count=40&layout=compact&theme=tokyonight&include_all_commits=true&line_height=40">
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nickdev0118&show_icons=true&locale=en" alt="nickdev0118" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nickdev0118&show_icons=true&locale=en" alt="nickdev0118" /></p>-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominayo&theme=vue-dark)](https://github.com/dominayo)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nickdev0118&" alt="nickdev0118" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nickdev0118&" alt="nickdev0118" /></p>-->
