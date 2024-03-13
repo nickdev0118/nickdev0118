@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Software Engineer</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;Senior%20Web%20developer;Mid-level%20AI%20developer;Honest%20Blockchain%20developer;9%2B%20years%20of%20rich%20experience&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Web%20and%20Mobile%20developer;Mid-level%20AI%20developer;Honest%20Blockchain%20developer&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nickdev0118&label=Profile%20views&color=0e75b6&style=flat" alt="nickdev0118" /> </p>
